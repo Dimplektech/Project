@@ -6,7 +6,7 @@ The Task Management Application is designed to help users manage their tasks eff
 <h2> Installation </h2>
 <ul>
   <li>requirement.txt</li>
-  <li>task.txt</li>
+
  </ul> 
 <h4>create a virtual environment named .venv based on your current interpreter:</h4>
  <h4>Windows</h4>
