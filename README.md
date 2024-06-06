@@ -12,10 +12,10 @@ requirement.txt
 <h4>Unit Testing:</h4> The application includes unit tests to ensure code reliability and correctness.
 
 <h2> Features</h2>
-Create Task: Add a new task with a title and description.
-View Tasks: See a list of all tasks.
-Update Task: Edit the details of an existing task.
-Delete Task: Remove a task from the list.
+<h4>Create Task:</h4> Add a new task with a title and description.
+<h4>View Tasks: </h4>See a list of all tasks.
+<h4>Update Task:</h4> Edit the details of an existing task.
+<h4>Delete Task:</h4> Remove a task from the list.
 
 <h2>Credits</h2>
 <h3> Author: Dimpal Kaware </h3>
