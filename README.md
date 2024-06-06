@@ -4,8 +4,10 @@
 The Task Management Application is designed to help users manage their tasks efficiently. It allows users to create, update, delete, and view tasks. This application is important for learning fundamental CRUD (Create, Read, Update, Delete) from text file and use text file as database using  File IO opertions.
 
 <h2> Installation </h2>
-  requirement.txt
-  task.txt
+<ul>
+  <li>requirement.txt</li>
+  <li>task.txt</li>
+ </ul> 
 <h4>create a virtual environment named .venv based on your current interpreter:</h4>
  <h4>Windows</h4>
 py -m venv task_venv
