@@ -4,7 +4,11 @@
 The Task Management Application is designed to help users manage their tasks efficiently. It allows users to create, update, delete, and view tasks. This application is important for learning fundamental CRUD (Create, Read, Update, Delete) operations and understanding how to manage data in a web application.
 
 <h2> Installation </h2>
-requirement.txt
+  requirement.txt
+<h4>create a virtual environment named .venv based on your current interpreter:</h4>
+ <h4>Windows</h4>
+py -m venv task_venv
+.venv\scripts\activate
 
 <h2> Key Features:</h2>
 <h4>Object-Oriented Programming (OOP):</h4> The application is designed using OOP principles to ensure modularity and code reusability.
