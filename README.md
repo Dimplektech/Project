@@ -26,4 +26,4 @@ py -m venv task_venv
 
 <h2>Credits</h2>
 <h3> Author: Dimpal Kaware </h3>
-<h3>Repository: https://github.com/Dimplektech)</h3>
+<h3>Repository: https://github.com/Dimplektech</h3>
